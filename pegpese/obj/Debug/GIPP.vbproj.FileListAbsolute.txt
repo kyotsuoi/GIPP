@@ -29,3 +29,7 @@ C:\Users\Kyo\Documents\GitHub\GIPP\pegpese\bin\Debug\GIPP.exe.config
 C:\Users\Kyo\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.exe
 C:\Users\Kyo\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.xml
 C:\Users\Kyo\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.pdb
+C:\Users\Admin\Documents\GitHub\GIPP\pegpese\bin\Debug\GIPP.exe.config
+C:\Users\Admin\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.exe
+C:\Users\Admin\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.xml
+C:\Users\Admin\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.pdb
