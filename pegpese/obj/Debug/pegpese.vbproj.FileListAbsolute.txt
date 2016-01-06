@@ -1,0 +1,41 @@
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\bin\Debug\pegpese.exe.config
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\bin\Debug\pegpese.exe
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\bin\Debug\pegpese.pdb
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\bin\Debug\pegpese.xml
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\bin\Debug\MySql.Data.dll
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.vbprojResolveAssemblyReference.cache
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmArmarios.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmDepartamentos.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.FrmUsuarios.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmLogin.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmFuncionarios.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.mdiPeg.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.Resources.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.vbproj.GenerateResource.Cache
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.exe
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.xml
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.pdb
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\bin\Debug\pegpese.exe.config
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.exe
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.xml
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.pdb
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\bin\Debug\pegpese.exe
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\bin\Debug\pegpese.pdb
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\bin\Debug\pegpese.xml
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\bin\Debug\MySql.Data.dll
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.vbprojResolveAssemblyReference.cache
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmArmarios.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmDepartamentos.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.FrmUsuarios.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmLogin.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmFuncionarios.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.mdiPeg.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.Resources.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.vbproj.GenerateResource.Cache
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmPrinter.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmReciboDomingo.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmEPI.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmReciboDomingo.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmPrinter.resources
+C:\Users\TI-00\Desktop\pegpese - Funcional\pegpese - Funcional\pegpese\obj\Debug\pegpese.frmEPI.resources
+C:\Users\Kyo\Desktop\pegpese - Funcional\pegpese\bin\Debug\SIPP.exe.config
