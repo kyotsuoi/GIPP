@@ -25,3 +25,7 @@ C:\Users\Kyo\Desktop\GIPP\pegpese\bin\Debug\GIPP.exe.config
 C:\Users\Kyo\Desktop\GIPP\pegpese\obj\Debug\GIPP.exe
 C:\Users\Kyo\Desktop\GIPP\pegpese\obj\Debug\GIPP.xml
 C:\Users\Kyo\Desktop\GIPP\pegpese\obj\Debug\GIPP.pdb
+C:\Users\Kyo\Documents\GitHub\GIPP\pegpese\bin\Debug\GIPP.exe.config
+C:\Users\Kyo\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.exe
+C:\Users\Kyo\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.xml
+C:\Users\Kyo\Documents\GitHub\GIPP\pegpese\obj\Debug\GIPP.pdb
