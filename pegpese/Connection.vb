@@ -1,7 +1,7 @@
 ﻿Imports System.IO
 Imports MySql.Data.MySqlClient
 
-Public Class Connection
+Public Class Connection 'teste
     Dim autentication As String
     Public ConnectionAutentication As String
     Public Query As String
